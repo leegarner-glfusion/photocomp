@@ -1,3 +1,5 @@
+## photocomp - Photo Competition plugin for glFusion
+
 The photocomp plugin provides a means to collect, judge and report on
 entries for photo competitions.
 
